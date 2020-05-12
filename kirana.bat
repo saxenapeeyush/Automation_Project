@@ -1,0 +1,1 @@
+node mykirana.js "./groceries.json" "./credential.json"
